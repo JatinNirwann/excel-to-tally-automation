@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository to your local machine:
    ```
-   git clone [https://github.com/your-username/excel-to-tally-automation.git](https://github.com/JatinNirwann/excel-to-tally-automation-using-python.git)
+   git clone https://github.com/your-username/excel-to-tally-automation.git
    ```
 
 2. Navigate to the project directory:
@@ -44,7 +44,7 @@ Before you begin, ensure you have met the following requirements:
 
 3. Run the script:
    ```
-   python excel_to_tally_automation.py
+   python excel_to_tally_automation.ipynb
    ```
 
 4. You will have 10 seconds to switch to your Tally software (or the application where you want to input the data).
@@ -69,4 +69,6 @@ Contributions to this project are welcome. Please feel free to submit a Pull Req
 
 ## Disclaimer
 
-This script simulates keyboard inputs. Use it responsibly and ensure you have permission to automate data entry in your organization. Always verify the entered data for accuracy.
+-This script simulates keyboard inputs. Use it responsibly and ensure you have permission to automate data entry in your organization. Always verify the entered data for accuracy.
+-It is recommended to test on a dummy data first to ensure its working properly as required.
+-Also don't change windows or tab because it will interept data entry and fixing it will be very painfull. 
